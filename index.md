@@ -1,8 +1,5 @@
 Ayyappaswamy Eethakota
 
-
-
-
 ## HPC & Linux Systems Engineer
 
 I write about Linux administration, HPC clusters, Lustre file systems,
@@ -22,6 +19,14 @@ Linux and HPC environments.
 - Linux system administration practices
 
 ---
+---
+
+## Contact
+
+- GitHub: https://github.com/ayyappaswamyeethakota
+- LinkedIn: linkedin.com/in/ayyappa-swamy-ab3834339
+- Email: ayyappaswamyeethakota@gmail.com
+
 
 ## Blog Posts
 
