@@ -1,4 +1,3 @@
-Ayyappaswamy Eethakota
 
 ## HPC & Linux Systems Engineer
 
