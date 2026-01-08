@@ -1,4 +1,4 @@
-# Ayyappa Swamy – HPC & Linux Systems Engineer
+# Ayyappa Swamy Eethakota
 
 This repository hosts my personal website and professional portfolio.
 
