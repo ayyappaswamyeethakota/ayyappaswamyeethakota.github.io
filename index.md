@@ -1,14 +1,10 @@
 ---
 layout: default
 title: Ayyappa Swamy 
-description: HPC & Linux Systems Engineer  in large-scale HPC clusters, GPU computing, and data center operations.
+description: HPC & Linux Systems Engineer in large-scale HPC clusters, GPU computing, and data center operations.
 ---
-**HPC & Linux Systems Engineer | Data Center & GPU Computing**
 
-📍 West Godavari, Andhra Pradesh, India  
-📞 +91 96520 65688  
-📧 eethakotaayyappaswamy@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com)
+📍 West Godavari, Andhra Pradesh, India        📞 +91 96520 65688  📧 eethakotaayyappaswamy@gmail.com     🔗 [LinkedIn](https://www.linkedin.com)
 
 ---
 
