@@ -1,2 +1,1 @@
-# ayyappaswamy
 website and Technical
