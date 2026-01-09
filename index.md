@@ -4,10 +4,9 @@ title: Ayyappa Swamy
 description: HPC & Linux Systems Engineer in large-scale HPC clusters and data center operations.
 ---
 
-📍 **[Andhra Pradesh, India](https://www.google.com/maps/search/?api=1&query=West+Godavari+Andhra+Pradesh+India) **  
-**📞 [Phone](tel:+919652065688) | 
-📧 [Email](mailto:eethakotaayyappaswamy@gmail.com) | 
-🔗 [LinkedIn](https://www.linkedin.com)**
+**📍 [India](https://www.google.com/maps/search/?api=1&query=West+Godavari+Andhra+Pradesh+India) 📞 [Phone](tel:+919652065688)**
+📧 [Email](mailto:eethakotaayyappaswamy@gmail.com) 
+🔗 [LinkedIn](https://www.linkedin.com)
 
 
 ---
