@@ -13,9 +13,9 @@ description: HPC & Linux Systems Engineer in large-scale HPC clusters and data c
 
 I am an **HPC & Linux Systems Engineer** with **2 years of hands-on experience** supporting **multi-petaflop high-performance computing environments** for **government and research workloads**. I was a **core contributor to India’s 11-Petaflops supercomputing infrastructure**, working on large-scale clusters consisting of **1,200+ compute nodes and NVIDIA H100 GPU accelerators**.
 
-My work includes **HPC cluster deployment, GPU-accelerated workloads, and high-speed InfiniBand (400 Gb/s) networking**, along with enterprise Linux system administration. I work extensively with **NVIDIA Bright Cluster Manager, PBS Pro, and Slurm** to manage cluster provisioning, scheduling, monitoring, and health checks.
+My work includes **HPC cluster deployment, GPU-accelerated workloads, and high-speed InfiniBand (400 Gb/s) networking**, along with enterprise Linux system administration. I work extensively with **NVIDIA Bright Cluster Manager, PBS Pro, and Slurm, DELL OME** to manage cluster provisioning, scheduling, monitoring, and health checks.
 
-I have hands-on experience installing, configuring, and tuning **engineering and CFD applications** such as **ANSYS Fluent, ANSYS CFX, STAR-CCM+, OpenFOAM, SU2, WRF, and ParaView**, ensuring proper MPI integration and stable performance across CPU and GPU nodes. I also build and tune application stacks using **AOCC, AOCL, GCC, OpenMPI, and Intel OneAPI** for performance and compatibility.
+I have hands-on experience installing,**engineering and CFD applications** such as **ANSYS Fluent, ANSYS CFX, STAR-CCM+, OpenFOAM, SU2, WRF, and ParaView**, ensuring proper MPI integration and stable performance across CPU and GPU nodes. I also build and tune application stacks using **AOCC, AOCL, GCC, OpenMPI, and Intel OneAPI** for performance and compatibility.
 
 As part of **24×7 L2 operations**, I handle **incident management, root-cause analysis, system troubleshooting, and hardware integration**, including BIOS, firmware, and driver updates on **Dell PowerEdge servers**. Through **shell scripting and automation**, I have improved deployment efficiency, reduced repetitive administrative tasks, and lowered user-related support issues.
 
